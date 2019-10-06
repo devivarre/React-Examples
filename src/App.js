@@ -8,7 +8,7 @@ function App() {
     <div className="jumbotron">
       <h3> React Example Applications </h3>
       <ul>
-        <li>Simple Calculator</li>
+        <li>Simple Calculator ram</li>
         </ul>
       </div>
   );
